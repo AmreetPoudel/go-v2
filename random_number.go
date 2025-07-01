@@ -1,4 +1,4 @@
-package randomNumber
+// package main
 
 import (
 	"fmt"

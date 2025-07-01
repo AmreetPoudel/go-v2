@@ -1,4 +1,4 @@
-package epoch
+// package main
 
 import (
 	"fmt"
