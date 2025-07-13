@@ -1,0 +1,9 @@
+[INFO] 2025/07/07 22:09:47 App started
+[INFO] 2025/07/07 22:09:47 Doing some work...
+[INFO] 2025/07/07 22:09:47 Finished.
+[INFO] 2025/07/07 22:10:49 App started
+[INFO] 2025/07/07 22:10:49 Doing some work...
+[INFO] 2025/07/07 22:10:49 Finished.
+[INFO] WARN: 2025/07/07 22:59:02 log4.go:19: this is warning log
+[INFO] WARN: 2025/07/07 22:59:02 log4.go:20: this is infor log
+[INFO] error: 2025/07/07 22:59:02 log4.go:21: this is error log
